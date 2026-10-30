@@ -1,0 +1,39 @@
+description: Limit access to enterprise personnel and authorized third parties via access management. Mandated by the internal information class(es); asserted where those classes bind, via the information-classes catalogue's mandated_controls references.
+evidence:
+  rationale: Cited as a mandated control by 1 canonical information class record(s); the requirement text is quoted verbatim from the citing record. Corroborated at admission.
+  sources:
+  - kind: repository-path
+    reference: 'technehub-labs/dea-catalog-information-classes:entities/v1-alpha (mandated_controls: dea:control-workforce-access-management)'
+governance:
+  approval_status: approved
+  functional_owner: Emmanuel A. Otchere
+  review_date: '2026-11-02'
+  source_and_evidence: Population CR-CTL-CAT-02; sources cited per record under evidence.
+  steward: Emmanuel A. Otchere
+id: dea:control-workforce-access-management
+lifecycle_status: active
+metadata:
+  created_at: '2026-11-02'
+  created_by: Emmanuel A. Otchere
+  status: active
+  updated_at: '2026-11-02'
+name: Workforce Access Management
+provenance:
+  ladder_passage:
+  - actor: Emmanuel A. Otchere
+    date: '2026-11-02'
+    stage: candidate
+  - actor: Emmanuel A. Otchere
+    date: '2026-11-02'
+    stage: corroborated
+  - actor: Emmanuel A. Otchere
+    date: '2026-11-02'
+    stage: reviewed
+  - actor: Emmanuel A. Otchere
+    date: '2026-11-02'
+    stage: canonical
+tags:
+- seed
+- ic-mandated
+type: Control
+version: 1.0.0
