@@ -88,7 +88,22 @@
       }
     },
     "metadata": {
-      "$ref": "entity.json#/properties/metadata"
+      "type": "object",
+      "description": "Metamodel base-entity metadata.",
+      "properties": {
+        "created_at": {
+          "type": "string"
+        },
+        "updated_at": {
+          "type": "string"
+        },
+        "created_by": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
     },
     "evidence": {
       "type": "object",
