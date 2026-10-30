@@ -82,8 +82,9 @@
     },
     "relationships": {
       "type": "array",
+      "description": "Typed relationship instances asserted by this record (metamodel relationship-instance contract; vendored locally).",
       "items": {
-        "$ref": "../relationships/relationship-instance.json"
+        "$ref": "relationship-instance.schema.json"
       }
     },
     "metadata": {
