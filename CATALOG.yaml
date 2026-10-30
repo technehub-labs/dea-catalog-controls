@@ -2,8 +2,8 @@ catalog:
   abbreviation: CTL
   counts:
     candidates: 0
-    canonical: 0
-    entities: 0
+    canonical: 20
+    entities: 20
     open_change_requests: 0
     research_files: 0
     retired: 0
@@ -16,12 +16,292 @@ catalog:
   description: 'A mechanism (process, technical, or organizational) that mitigates a Risk or enforces a Regulation.
 
     '
-  entities: []
+  entities:
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-breach-notification-readiness
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-breach-notification-readiness/dea:control-breach-notification-readiness.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-confidentiality-agreement-disclosure
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-confidentiality-agreement-disclosure/dea:control-confidentiality-agreement-disclosure.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-controlled-dissemination
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-controlled-dissemination/dea:control-controlled-dissemination.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-data-minimization
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-data-minimization/dea:control-data-minimization.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-data-subject-rights-operations
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-data-subject-rights-operations/dea:control-data-subject-rights-operations.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-disclosure-approval
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-disclosure-approval/dea:control-disclosure-approval.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-disclosure-logging
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-disclosure-logging/dea:control-disclosure-logging.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-encryption-at-rest-and-transit
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-encryption-at-rest-and-transit/dea:control-encryption-at-rest-and-transit.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-insider-list-management
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-insider-list-management/dea:control-insider-list-management.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-lawful-basis-management
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-lawful-basis-management/dea:control-lawful-basis-management.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-minimum-necessary-enforcement
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-minimum-necessary-enforcement/dea:control-minimum-necessary-enforcement.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-need-to-know-access
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-need-to-know-access/dea:control-need-to-know-access.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-publication-integrity
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-publication-integrity/dea:control-publication-integrity.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-quarterly-vulnerability-scanning
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-quarterly-vulnerability-scanning/dea:control-quarterly-vulnerability-scanning.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-role-based-access-with-unique-ids
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-role-based-access-with-unique-ids/dea:control-role-based-access-with-unique-ids.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-secrecy-efforts-maintenance
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-secrecy-efforts-maintenance/dea:control-secrecy-efforts-maintenance.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-sensitive-authentication-data-prohibition
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-sensitive-authentication-data-prohibition/dea:control-sensitive-authentication-data-prohibition.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-trading-restriction-enforcement
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-trading-restriction-enforcement/dea:control-trading-restriction-enforcement.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-treatment-role-access
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-treatment-role-access/dea:control-treatment-role-access.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
+  - candidate_count: 0
+    canonical_count: 1
+    id: dea:control-workforce-access-management
+    last_modified: '2026-10-30'
+    lifecycle_status: active
+    path: entities/v1-alpha/dea:control-workforce-access-management/dea:control-workforce-access-management.yaml
+    research_count: 0
+    retired_count: 0
+    state: canonical
+    type: Control
+    version: 1.0.0
   id: dea:catalog-controls
   metamodel_version: 1.0.0
   name: Control
   owner: TechNeHub Labs
   repository: https://github.com/technehub-labs/dea-catalog-controls.git
-  research_registers: []
+  research_registers:
+  - entity_id: dea:control-breach-notification-readiness
+    files: []
+    path: entities/v1-alpha/dea:control-breach-notification-readiness/research/
+  - entity_id: dea:control-confidentiality-agreement-disclosure
+    files: []
+    path: entities/v1-alpha/dea:control-confidentiality-agreement-disclosure/research/
+  - entity_id: dea:control-controlled-dissemination
+    files: []
+    path: entities/v1-alpha/dea:control-controlled-dissemination/research/
+  - entity_id: dea:control-data-minimization
+    files: []
+    path: entities/v1-alpha/dea:control-data-minimization/research/
+  - entity_id: dea:control-data-subject-rights-operations
+    files: []
+    path: entities/v1-alpha/dea:control-data-subject-rights-operations/research/
+  - entity_id: dea:control-disclosure-approval
+    files: []
+    path: entities/v1-alpha/dea:control-disclosure-approval/research/
+  - entity_id: dea:control-disclosure-logging
+    files: []
+    path: entities/v1-alpha/dea:control-disclosure-logging/research/
+  - entity_id: dea:control-encryption-at-rest-and-transit
+    files: []
+    path: entities/v1-alpha/dea:control-encryption-at-rest-and-transit/research/
+  - entity_id: dea:control-insider-list-management
+    files: []
+    path: entities/v1-alpha/dea:control-insider-list-management/research/
+  - entity_id: dea:control-lawful-basis-management
+    files: []
+    path: entities/v1-alpha/dea:control-lawful-basis-management/research/
+  - entity_id: dea:control-minimum-necessary-enforcement
+    files: []
+    path: entities/v1-alpha/dea:control-minimum-necessary-enforcement/research/
+  - entity_id: dea:control-need-to-know-access
+    files: []
+    path: entities/v1-alpha/dea:control-need-to-know-access/research/
+  - entity_id: dea:control-publication-integrity
+    files: []
+    path: entities/v1-alpha/dea:control-publication-integrity/research/
+  - entity_id: dea:control-quarterly-vulnerability-scanning
+    files: []
+    path: entities/v1-alpha/dea:control-quarterly-vulnerability-scanning/research/
+  - entity_id: dea:control-role-based-access-with-unique-ids
+    files: []
+    path: entities/v1-alpha/dea:control-role-based-access-with-unique-ids/research/
+  - entity_id: dea:control-secrecy-efforts-maintenance
+    files: []
+    path: entities/v1-alpha/dea:control-secrecy-efforts-maintenance/research/
+  - entity_id: dea:control-sensitive-authentication-data-prohibition
+    files: []
+    path: entities/v1-alpha/dea:control-sensitive-authentication-data-prohibition/research/
+  - entity_id: dea:control-trading-restriction-enforcement
+    files: []
+    path: entities/v1-alpha/dea:control-trading-restriction-enforcement/research/
+  - entity_id: dea:control-treatment-role-access
+    files: []
+    path: entities/v1-alpha/dea:control-treatment-role-access/research/
+  - entity_id: dea:control-workforce-access-management
+    files: []
+    path: entities/v1-alpha/dea:control-workforce-access-management/research/
   status: active
   version: 0.1.0

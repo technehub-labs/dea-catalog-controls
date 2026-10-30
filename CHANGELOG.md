@@ -11,3 +11,6 @@ catalogue-instance layer; vendored relationship-instance contract; fixtures;
 gates 1-6 wired into `validate-catalogue.yml` plus allocation and authorship
 workflows; FOUNDATIONS (D-1..D-6) and record documentation standard. No
 records admitted (population gated on CR-CTL-CAT-02).
+- `CR-CTL-CAT-02` — initial population: 20 canonical Control records resolving every dea:control-* id
+  cited by information-classes mandated_controls (27 citations across 8 classes). CATALOG.yaml
+  regenerated (20 entities).
